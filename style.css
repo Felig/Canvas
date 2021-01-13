@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    font-size: 20px;
+    margin: 10px 20px;
+}
+
+.size {
+    margin: 10px 5px;
+}
+
+.controls {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    background-color: rgb(163, 228, 192);
+}
